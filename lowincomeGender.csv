@@ -1,4 +1,4 @@
-﻿"REF_DATE","GEO","DGUID","Persons in low income","Low income lines","Statistics","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+﻿"REF_DATE","GEO","DGUID","Sex","Low income lines","Statistics","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","Low Income Percentage","STATUS","SYMBOL","TERMINATED","DECIMALS"
 "2021","NL","2016A000210","Males","Low income measure after tax","Percentage of persons in low income","Percent","239","units","0","v96516690","3.5.1.2","11.7","D","","","1"
 "2021","NL","2016A000210","Females","Low income measure after tax","Percentage of persons in low income","Percent","239","units","0","v96516738","3.9.1.2","16.8","C","","","1"
 "2021","PE","2016A000211","Males","Low income measure after tax","Percentage of persons in low income","Percent","239","units","0","v96517098","4.5.1.2","10.2","D","","","1"

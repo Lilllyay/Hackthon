@@ -1,4 +1,4 @@
-﻿"REF_DATE","GEO","DGUID","Type of employees","Overtime","North American Industry Classification System (NAICS)","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+﻿"Year","GEO","DGUID","Type of employees","Overtime","Industry","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","Weekly Income","STATUS","SYMBOL","TERMINATED","DECIMALS"
 "2018","Canada","2021A000011124","All employees","Including overtime","Argriculture","Current dollars","75","units","0","v1740722","1.1.1.2","1001.43","A","","","2"
 "2019","Canada","2021A000011124","All employees","Including overtime","Argriculture","Current dollars","75","units","0","v1740722","1.1.1.2","1028.47","A","","","2"
 "2020","Canada","2021A000011124","All employees","Including overtime","Argriculture","Current dollars","75","units","0","v1740722","1.1.1.2","1096.60","B","","","2"

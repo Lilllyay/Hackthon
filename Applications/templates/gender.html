@@ -1,0 +1,48 @@
+{%extends "layout.html"%}
+{% block content %}
+    <div class="row p-4">
+        <div class="card m-auto" style="width: 90%; height: 100%;">
+            <div class="card-body">
+                <div id="chart3"></div>
+                <p style="width: 90%">
+                    This bar chart visualizes the male vs female income in different provinces and territories in Canada, further revealing the pay gap between different sex.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="row p-4">
+        <div class="card m-auto" style="width: 90%; height: 100%;">
+            <div class="card-body">
+                <div id="chart6"></div>
+                <p>
+                    This chart shows the wage gap between different gender identity groups, revealing the unfair treatments trans people, LGBTQ+ communities, and other minority gender identities receive in work place.
+                    All LGBTQ+ communities' median weekly earnings is only 90% of all workers', while trans men, nonbinary, gender-nonconforming or two spirit people's being roughly 70%, and trans women's being 60%.
+                </p>
+            </div>
+        </div>
+    </div>
+    <p>
+        The unequal pay that LGBTQ+ communities and transgender people experience in workforce directly result in a huge disadvanatge in household savings and investments. As shown in the graph below.
+    </p>
+    <div class="row p-4">
+        <div class="card m-auto" style="width: 90%; height: 100%;">
+            <div class="card-body">
+                <div id="chart5"></div>
+                <p>
+                    From the graph it is obvious that the gender and sexual orientation minorities have a lower household investment and savings, which is likely to negatively affect their financial wealth and life quality. It is a reflection of the gender discrimination and inequality in work place nowadays.
+                </p>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script>
+        var graph3 = {{graph3JSON | safe}}
+        Plotly.plot("chart3",graph3,{})
+
+        var graph5 = {{graph5JSON | safe}}
+        Plotly.plot("chart5",graph5,{})
+
+        var graph6 = {{graph6JSON | safe}}
+        Plotly.plot("chart6",graph6,{})
+    </script>
+{% endblock %}

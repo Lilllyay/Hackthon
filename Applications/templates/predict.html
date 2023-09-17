@@ -1,0 +1,18 @@
+{%extends "layout.html"%}
+{% block content %}
+    <form method="post" action= "/predict">
+        <!-- <input name="age" type="text" >age</input>
+        <input name="ethnicities" type="text" >ethnicities</input>
+        <input name="sex" type="text">sex</input>
+        <button type="submit">
+            Submit
+        </button> -->
+        <textarea rows="12" cols="60" name="content" placeholder="Enter your email here"
+            autocomplete="off">{{ email }}</textarea>
+        <div>
+            <button type="submit">
+                Button
+            </button>
+        </div>
+    </form>
+{% endblock %}

@@ -1,0 +1,25 @@
+Age,Ethnicities,Sex,Median Weekly Earning
+16-24,White,Male,719
+25-54,White,Male,"1,263"
+55+,White,Male,"1,322"
+16-24,White,Female,674
+25-54,White,Female,"1,086"
+55+,White,Female,"1,065"
+16-24,Black/African American,Male,648
+25-54,Black/African American,Male,"1,014"
+55+,Black/African American,Male,"1,128"
+16-24,Black/African American,Female,657
+25-54,Black/African American,Female,895
+55+,Black/African American,Female,925
+16-24,Asian,Male,854
+25-54,Asian,Male,"1,744"
+55+,Asian,Male,"1,572"
+16-24,Asian,Female,983
+25-54,Asian,Female,"1,399"
+55+,Asian,Female,997
+16-24,Hispanic/Latino,Male,678
+25-54,Hispanic/Latino,Male,949
+55+,Hispanic/Latino,Male,947
+16-24,Hispanic/Latino,Female,638
+25-54,Hispanic/Latino,Female,870
+55+,Hispanic/Latino,Female,742

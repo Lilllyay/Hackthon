@@ -1,25 +1,193 @@
 Age,Ethnicities,Sex,Median Weekly Earning
-16-24,White,Male,719
-25-54,White,Male,"1,263"
-55+,White,Male,"1,322"
-16-24,White,Female,674
-25-54,White,Female,"1,086"
-55+,White,Female,"1,065"
-16-24,Black/African American,Male,648
-25-54,Black/African American,Male,"1,014"
-55+,Black/African American,Male,"1,128"
-16-24,Black/African American,Female,657
-25-54,Black/African American,Female,895
-55+,Black/African American,Female,925
-16-24,Asian,Male,854
-25-54,Asian,Male,"1,744"
-55+,Asian,Male,"1,572"
-16-24,Asian,Female,983
-25-54,Asian,Female,"1,399"
-55+,Asian,Female,997
-16-24,Hispanic/Latino,Male,678
-25-54,Hispanic/Latino,Male,949
-55+,Hispanic/Latino,Male,947
-16-24,Hispanic/Latino,Female,638
-25-54,Hispanic/Latino,Female,870
-55+,Hispanic/Latino,Female,742
+18,White,Male,719
+30,White,Male,1263
+60,White,Male,1322
+20,White,Female,674
+34,White,Female,1086
+56,White,Female,1065
+23,White,Male,719
+27,White,Male,1242
+70,White,Male,1363
+19,White,Female,652
+35,White,Female,1054
+62,White,Female,1002
+18,White,Male,757
+27,White,Male,1237
+59,White,Male,1320
+23,White,Female,674
+47,White,Female,1031
+73,White,Female,1028
+24,White,Male,712
+25,White,Male,1218
+56,White,Male,1290
+19,White,Female,650
+42,White,Female,1014
+67,White,Female,976
+16,White,Male,702
+33,White,Male,1175
+64,White,Male,1325
+22,White,Female,625
+38,White,Female,1005
+59,White,Female,1006
+19,White,Male,661
+31,White,Male,1176
+57,White,Male,1261
+21,White,Female,601
+31,White,Female,977
+66,White,Female,958
+20,White,Male,660
+34,White,Male,1146
+68,White,Male,1262
+24,White,Female,605
+53,White,Female,966
+64,White,Female,955
+19,White,Male,654
+38,White,Male,1157
+73,White,Male,1249
+19,White,Female,591
+54,White,Female,946
+68+,White,Female,968
+24,Black/African American,Male,648
+34,Black/African American,Male,1014
+59,Black/African American,Male,1228
+22,Black/African American,Female,657
+47,Black/African American,Female,895
+60,Black/African American,Female,925
+20,Black/African American,Male,679
+40,Black/African American,Male,967
+66,Black/African American,Male,986
+21,Black/African American,Female,600
+53,Black/African American,Female,854
+58,Black/African American,Female,895
+23,Black/African American,Male,668
+35,Black/African American,Male,976
+71,Black/African American,Male,1082
+23,Black/African American,Female,629
+52,Black/African American,Female,896
+64,Black/African American,Female,828
+16,Black/African American,Male,628
+27,Black/African American,Male,995
+62,Black/African American,Male,979
+23,Black/African American,Female,641
+39,Black/African American,Female,871
+60,Black/African American,Female,854
+18,Black/African American,Male,616
+34,Black/African American,Male,893
+78,Black/African American,Male,932
+22,Black/African American,Female,608
+48,Black/African American,Female,866
+60,Black/African American,Female,775
+19,Black/African American,Male,586
+38,Black/African American,Male,874
+63,Black/African American,Male,862
+21,Black/African American,Female,593
+40,Black/African American,Female,810
+71,Black/African American,Female,879
+18,Black/African American,Male,522
+26,Black/African American,Male,900
+61,Black/African American,Male,973
+19,Black/African American,Female,533
+33,Black/African American,Female,767
+70,Black/African American,Female,870
+24,Black/African American,Male,501
+25,Black/African American,Male,888
+69,Black/African American,Male,950
+22,Black/African American,Female,564
+34,Black/African American,Female,794
+62,Black/African American,Female,854
+22,Asian,Male,854
+34,Asian,Male,1744
+57,Asian,Male,1572
+19,Asian,Female,983
+32,Asian,Female,1399
+67,Asian,Female,997
+23,Asian,Male,900
+28,Asian,Male,1739
+61,Asian,Male,1564
+22,Asian,Female,758
+51,Asian,Female,1271
+67,Asian,Female,1016
+17,Asian,Male,799
+52,Asian,Male,1756
+59,Asian,Male,1424
+29,Asian,Female,918
+51,Asian,Female,1475
+80,Asian,Female,941
+19,Asian,Male,754
+36,Asian,Male,1669
+58,Asian,Male,1299
+18,Asian,Female,964
+27,Asian,Female,1257
+56,Asian,Female,991
+20,Asian,Male,774
+34,Asian,Male,1596
+62,Asian,Male,1139
+18,Asian,Female,952
+47,Asian,Female,1383
+64,Asian,Female,922
+23,Asian,Male,784
+39,Asian,Male,1541
+55,Asian,Male,1251
+24,Asian,Female,681
+39,Asian,Female,1263
+61,Asian,Female,1010
+20,Asian,Male,733
+30,Asian,Male,1569
+81,Asian,Male,1206
+22,Asian,Female,619
+28,Asian,Female,1153
+57,Asian,Female,900
+21,Asian,Male,841
+34,Asian,Male,1490
+67,Asian,Male,1164
+24,Asian,Female,933
+54,Asian,Female,1257
+76,Asian,Female,946
+23,Hispanic/Latino,Male,678
+52,Hispanic/Latino,Male,949
+68,Hispanic/Latino,Male,947
+18,Hispanic/Latino,Female,638
+47,Hispanic/Latino,Female,870
+63,Hispanic/Latino,Female,742
+23,Hispanic/Latino,Male,702
+27,Hispanic/Latino,Male,966
+74,Hispanic/Latino,Male,901
+19,Hispanic/Latino,Female,619
+27,Hispanic/Latino,Female,823
+58,Hispanic/Latino,Female,780
+22,Hispanic/Latino,Male,706
+37,Hispanic/Latino,Male,920
+69,Hispanic/Latino,Male,972
+22,Hispanic/Latino,Female,692
+28,Hispanic/Latino,Female,818
+65,Hispanic/Latino,Female,750
+23,Hispanic/Latino,Male,689
+26,Hispanic/Latino,Male,906
+56,Hispanic/Latino,Male,982
+23,Hispanic/Latino,Female,605
+44,Hispanic/Latino,Female,797
+71,Hispanic/Latino,Female,750
+22,Hispanic/Latino,Male,641
+40,Hispanic/Latino,Male,894
+60,Hispanic/Latino,Male,925
+20,Hispanic/Latino,Female,609
+37,Hispanic/Latino,Female,770
+63,Hispanic/Latino,Female,713
+24,Hispanic/Latino,Male,616
+51,Hispanic/Latino,Male,882
+63,Hispanic/Latino,Male,900
+22,Hispanic/Latino,Female,569
+36,Hispanic/Latino,Female,760
+80,Hispanic/Latino,Female,750
+17,Hispanic/Latino,Male,611
+29,Hispanic/Latino,Male,861
+57,Hispanic/Latino,Male,961
+19,Hispanic/Latino,Female,598
+33,Hispanic/Latino,Female,768
+62,Hispanic/Latino,Female,653
+18,Hispanic/Latino,Male,609
+29,Hispanic/Latino,Male,828
+59,Hispanic/Latino,Male,814
+18,Hispanic/Latino,Female,538
+27,Hispanic/Latino,Female,735
+66,Hispanic/Latino,Female,728
